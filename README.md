@@ -231,6 +231,10 @@ curl -X POST "http://localhost:5000/PontoEletronico/registrar_ponto" -H "Content
   "mensagem": "Ponto de entrada registrado com sucesso!"
 }
 ```
+---
+
+
+<img src="https://github.com/user-attachments/assets/f1999515-0f12-44c7-8c9c-57b381e1e0a3">
 
 ---
 
